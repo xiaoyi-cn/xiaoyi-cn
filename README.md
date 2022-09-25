@@ -1,9 +1,9 @@
 <h1 align="center">嗨👋，我是小艺</h1>
-<h3 align="center">来自印度的热情前端开发人员</h3>
+<h3 align="center">来自中国的热情前端开发人员</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaoyi-cn&label=Profile%20views&color=0e75b6&style=flat" alt="xiaoyi-cn" /> </p >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app /?username=xiaoyi-cn" alt="xiaoyi-cn" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://xiaoyi-cn.github.io /?username=xiaoyi-cn" alt="我的博客" /></a> </p>
 
 - 📝 我经常在**xiaoyi-cn.github.io**上写文章
 
