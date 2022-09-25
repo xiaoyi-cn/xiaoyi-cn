@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaoyi-cn&label=Profile%20views&color=0e75b6&style=flat" alt="xiaoyi-cn" /> </p >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://xiaoyi-cn.github.io /?username=xiaoyi-cn" alt="我的博客" /></a> </p>
+<p align="left"> <a href="https://xiaoyi-cn.github.io"><img src="https://xiaoyi-cn.github.io /?username=xiaoyi-cn" alt="我的博客" /></a> </p>
 
 - 📝 我经常在**xiaoyi-cn.github.io**上写文章
 
