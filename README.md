@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app /?username=xiaoyi-cn" alt="xiaoyi-cn" /></a> </p>
 
-- 📝 我经常在xiaoyi-cn.github.io上写文章
+- 📝 我经常在[xiaoyi-cn.github.io]上写文章
 
 - 📫 如何联系我**xy_tranquil@outlook.com**
 
