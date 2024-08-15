@@ -1,11 +1,9 @@
-<h1 align="center">嗨👋，我是小艺</h1>
+<h1 align="center">嗨👋，我是小毅</h1>
 <h3 align="center">来自中国的热情前端开发人员</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaoyi-cn&label=Profile%20views&color=0e75b6&style=flat" alt="xiaoyi-cn" /> </p >
 
-<p align="left"> <a href="https://xiaoyi-cn.github.io"><img src="https://xiaoyi-cn.github.io /?username=xiaoyi-cn" alt="我的博客" /></a> </p>
-
-- 📝 我经常在**xiaoyi-cn.github.io**上写文章
+<p align="left"> <a href="https://xiaoyi-cn.github.io"><img src="https://xiaoyi-cn.github.io /?username=xiaoyi-cn" alt="我的个人引导页" /></a> </p>
 
 - 📫 如何联系我**xy_tranquil@outlook.com**
 
